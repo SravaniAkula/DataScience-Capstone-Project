@@ -5,4 +5,4 @@ This project is conducted with the support of the Johns Hopkins University and i
 
 This is the link for shiny app:
 
-[https://sravaniakula1.shinyapps.io/NextWordPredictor/](#Next Word Predictor)
+[https://sravaniakula1.shinyapps.io/NextWordPredictor/](#NextWord Predictor)
