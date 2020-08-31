@@ -1,0 +1,54 @@
+Next Word Predictor
+========================================================
+author: Sravani Akula
+date: 31/08/2020
+autosize: true
+
+========================================================
+
+
+
+
+## Introduction
+
+* Next Word Predictor is a Shiny app that uses a text prediction algorithm to predict the  next word(s) based on text entered by a user
+* The application predicts the next word in a phrase/sentence. Up to four possible next word predictions are available, and you have the option to click on any of them. The word selected will be added to your text then application continues on predicting the next following word.
+
+========================================================
+
+
+
+## Objective
+
+This is the Capstone project for the Coursera Data Science specialization, which involved developing a word predicting application in R/Shiny. We were provided a Corpus of Text from Blogs, Twitter and News from HC Corpora which is a collection of corpora for various languages freely available to download. However we were required to use only The English texts.
+
+This project is conducted with the support of the Johns Hopkins University and in cooperation with SwiftKey.
+
+========================================================
+
+## App Development
+
+The application uses natural language processing, namely, n-grams, Markov model, and Katz's back-off model to perform text prediction.
+
+The series of steps to build the model were:
+
+* Cleaning and preparing the data
+* Exploratory Analysis
+* Build n-grams from the data corpus
+* Build frequencies from the n-grams
+* Build the prediction model
+
+
+
+========================================================
+
+## Application
+
+* Shiny App:
+<https://sravaniakula1.shinyapps.io/NextWordPredictor/>
+
+
+========================================================
+
+## Thank you
+
